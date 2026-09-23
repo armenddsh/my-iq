@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+.next/
+out/
+
+# Testing
+coverage/
+test-results/
+
+# TypeScript
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
